@@ -1,0 +1,106 @@
+!DOCTYPE html>
+<html>
+<head>
+
+ <title>Education for All</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <h1>EDUCATION FOR ALL</h1>
+        <p>Effects and Reasons of not having a Quality Education for all.</p>
+    </div>
+
+    <div class="topnav">
+        <a href="home.html">Home</a>  
+        <a href="reasons.html">Reasons</a>
+        <a href="effects.html">Effects</a>
+    </div>
+	
+  <audio controls>
+<source src="true.mp3" type="audio/mpeg">
+     Your browser does not support the audio element.
+  </audio>
+
+    <div class="row">
+        <div class="column">
+            <h2>What is it about?</h2>
+            <p>The website examines the important implications of children not having access to the best possible education, a problem that is urgent and relevant today. The origins of this inequality in education are closely examined, along with how they relate to the Sustainable Development Goal (SDG) of Quality Education. The website underscores the significance of comprehending variables like institutional biases and socioeconomic inequality in order to develop successful solutions. In the end, it aims to increase awareness of the significance of providing all kids with equal educational opportunities in order to encourage group action to address these issues and guarantee that every kid has the opportunity to succeed.</p>
+        </div>
+        <div class="column">
+            <h2>What is the purpose?</h2>
+            <p>The website's goal is to educate users on the several causes for the lack of high-quality education that many kids face. It draws attention to important elements that contribute to this problem, including geographic differences, socioeconomic challenges, and systemic inequalities. The website also informs users on the detrimental consequences of poor education, such as decreased academic achievement, fewer opportunities for employment in the future, and a general decline in the well-being of impacted students. The website hopes to enable people and communities to understand the important relevance of high-quality education by disseminating this knowledge.</p>
+        </div>
+        <div class="column">
+
+            <h2>Why is it important?</h2>
+            <p>The website acts as a call to action, asking readers to be aware of these social concerns and supporting proactive initiatives to lessen the things that limit high-quality education. The website aims to encourage group efforts to address these issues and guarantee that every child has access to a quality education by promoting awareness and enlightening dialogues. This understanding is essential for both personal development and the creation of a more just society in which every child can achieve.</p>
+        </div>
+    </div>
+	<style>
+a {
+  color: hotpink;
+}
+</style>
+</head>
+
+<style>
+a {
+  color: hotpink;
+}
+</style>
+</head>
+<body>
+
+<h2>MORE INFORMATIION:</h2>
+
+<p><b><a href="default.asp" target="_blank">This is a link</a></b></p>
+
+<p><b><a href="default.asp" target="_blank">This is a link</a></b></p>
+
+<style>
+a.highlight:hover {
+  color: #ff0000;
+  font-size: 22px;
+} 
+</style>
+</head>
+
+<body>
+
+<h2>POVERTY INFORMATION</h2>
+
+<head>
+<style>
+p {
+  display: none;
+  background-color: WHITE;
+  padding: 20px;
+}
+
+div:hover p {
+  display: block;
+}
+</style>
+</head>
+<body>
+
+<div> PRESS
+  <p>BYE BYE!</p>
+</div>
+
+</body>
+</html>
+
+<p><a class="highlight" href="css_syntax.asp">INFO FOR IMPORTANCE:</a></p>
+
+
+</body>
+</html>
+
+    <footer>
+        <p>EDUCATION FOR ALL</p>
+    </footer>
+</body>
+</html>
+
